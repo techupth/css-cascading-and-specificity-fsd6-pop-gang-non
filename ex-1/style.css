@@ -1,9 +1,11 @@
-
 /* Start coding here  */
-.ex-btn {
+button:hover{
   padding: 4px 15px;
   border-radius: 5px;
   font-size: 18px;
+}
+
+.ex-btn {
   cursor: pointer;
   color: black;
   background-color: #eee;
@@ -11,9 +13,6 @@
 }
 
 .ex-btn-warning {
-  padding: 4px 15px;
-  border-radius: 5px;
-  font-size: 18px;
   cursor: pointer;
   color: white;
   background-color: crimson;
@@ -21,13 +20,8 @@
 }
 
 .ex-btn-success {
-  padding: 4px 15px;
-  border-radius: 5px;
-  font-size: 18px;
   cursor: pointer;
   color: white;
   background-color: seagreen;
   border: 2px solid green;
 }
-
-
